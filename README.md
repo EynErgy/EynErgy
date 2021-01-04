@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love 3d printing, machining, audio, painting and gaming
+- ⚡ Fun fact: I love photography, 3d printing, machining, audio, painting and gaming
 
 
 ### Connect with me:
