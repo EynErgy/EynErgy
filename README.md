@@ -1,6 +1,6 @@
 ### Hi there, I'm Nicolas - aka [EynErgy] 👋
 
-[![BazarNico](https://img.shields.io/twitter/follow/BazarNico?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=@BazarNico)
+[![BazarNico](https://img.shields.io/twitter/follow/BazarNico?color=1DA1F2&logo=twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=@BazarNico)
 
 ## I'm a Belgian developer and tinkerer
 
