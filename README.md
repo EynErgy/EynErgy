@@ -62,7 +62,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.eynergy.vercel.app/api?username=EynErgy&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="EynErgy's GitHub Stats" src="https://github-readme-stats.eynergy.vercel.app/api?username=EynErgy&show_icons=true&count_private=true" />
+  <img align="left" alt="EynErgy's GitHub Langs" src="https://github-readme-stats.eynergy.vercel.app/api/top-langs?username=EynErgy&show_icons=true&count_private=true" />
   
 
 </details>
