@@ -39,6 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FR CYBERPUNK 2077 EPISODE 08](https://www.youtube.com/watch?v=h4Pm8TQMgVU)
+- [FR CYBERPUNK 2077 EPISODE 07](https://www.youtube.com/watch?v=XzERt5-8lGU)
+- [FR CYBERPUNK 2077 EPISODE 06](https://www.youtube.com/watch?v=CtzU55KG2Ws)
+- [FR CYBERPUNK 2077 EPISODE 05](https://www.youtube.com/watch?v=qKqYqW80AkU)
+- [FR CYBERPUNK 2077 EPISODE 04](https://www.youtube.com/watch?v=dLpJWOveh9Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
