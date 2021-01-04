@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest youtube post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 1 * * 1' # Runs every monday at 1:00
