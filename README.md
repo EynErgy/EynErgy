@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PHOENIX POINT YEAR ONE EPISODE 05](https://www.youtube.com/watch?v=yY2d1g1ACUU)
+- [PHOENIX POINT YEAR ONE EPISODE 04](https://www.youtube.com/watch?v=zUCybjV3Vlg)
+- [PHOENIX POINT YEAR ONE EPISODE 03](https://www.youtube.com/watch?v=DnP4c7nvtl0)
 - [PHOENIX POINT YEAR ONE EPISODE 02](https://www.youtube.com/watch?v=iTO2QjJZ170)
 - [PHOENIX POINT YEAR ONE EPISODE 01](https://www.youtube.com/watch?v=WGMUzLmkx2Y)
-- [FR CYBERPUNK 2077 EPISODE 08](https://www.youtube.com/watch?v=h4Pm8TQMgVU)
-- [FR CYBERPUNK 2077 EPISODE 07](https://www.youtube.com/watch?v=XzERt5-8lGU)
-- [FR CYBERPUNK 2077 EPISODE 06](https://www.youtube.com/watch?v=CtzU55KG2Ws)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
