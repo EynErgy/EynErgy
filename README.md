@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PHOENIX POINT YEAR ONE EPISODE 08](https://www.youtube.com/watch?v=QduVMG2LsZk)
+- [PHOENIX POINT YEAR ONE EPISODE 07](https://www.youtube.com/watch?v=31AiOXMMLsw)
 - [PHOENIX POINT YEAR ONE EPISODE 06](https://www.youtube.com/watch?v=Md0lmFjz3S8)
 - [PHOENIX POINT YEAR ONE EPISODE 05](https://www.youtube.com/watch?v=yY2d1g1ACUU)
 - [PHOENIX POINT YEAR ONE EPISODE 04](https://www.youtube.com/watch?v=zUCybjV3Vlg)
-- [PHOENIX POINT YEAR ONE EPISODE 03](https://www.youtube.com/watch?v=DnP4c7nvtl0)
-- [PHOENIX POINT YEAR ONE EPISODE 02](https://www.youtube.com/watch?v=iTO2QjJZ170)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
