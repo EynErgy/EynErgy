@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[FR]CyberPunk 2077 1.20 Episode 01](https://www.youtube.com/watch?v=60YmQwh_qyw)
-- [PHOENIX POINT YEAR ONE EPISODE 10](https://www.youtube.com/watch?v=BFlhTq65axc)
-- [PHOENIX POINT YEAR ONE EPISODE 09](https://www.youtube.com/watch?v=2SDYCaNC9iQ)
-- [PHOENIX POINT YEAR ONE EPISODE 08](https://www.youtube.com/watch?v=QduVMG2LsZk)
-- [PHOENIX POINT YEAR ONE EPISODE 07](https://www.youtube.com/watch?v=31AiOXMMLsw)
+- [[FR]CyberPunk 2077 1.20 Episode 06](https://www.youtube.com/watch?v=qVO7NLRHCRc)
+- [[FR]CyberPunk 2077 1.20 Episode 05](https://www.youtube.com/watch?v=9N9RzKmdvVQ)
+- [[FR]CyberPunk 2077 1.20 Episode 04](https://www.youtube.com/watch?v=EZ1GAnWB85Y)
+- [[FR]CyberPunk 2077 1.20 Episode 03](https://www.youtube.com/watch?v=afpJclo6bJY)
+- [[FR]CyberPunk 2077 1.20 Episode 02](https://www.youtube.com/watch?v=cFEtUKVdDxE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
