@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[FR]CyberPunk 2077 1.20 Episode 06](https://www.youtube.com/watch?v=qVO7NLRHCRc)
-- [[FR]CyberPunk 2077 1.20 Episode 05](https://www.youtube.com/watch?v=9N9RzKmdvVQ)
-- [[FR]CyberPunk 2077 1.20 Episode 04](https://www.youtube.com/watch?v=EZ1GAnWB85Y)
-- [[FR]CyberPunk 2077 1.20 Episode 03](https://www.youtube.com/watch?v=afpJclo6bJY)
-- [[FR]CyberPunk 2077 1.20 Episode 02](https://www.youtube.com/watch?v=cFEtUKVdDxE)
+- [[FR]CyberPunk 2077 1.20 Episode 11](https://www.youtube.com/watch?v=4nwF9vaHOR0)
+- [[FR]CyberPunk 2077 1.20 Episode 10](https://www.youtube.com/watch?v=JNDtK2OOgNs)
+- [[FR]CyberPunk 2077 1.20 Episode 09](https://www.youtube.com/watch?v=RexlxHs7ajE)
+- [[FR]CyberPunk 2077 1.20 Episode 08](https://www.youtube.com/watch?v=yyjowFo9FF8)
+- [[FR]CyberPunk 2077 1.20 Episode 07](https://www.youtube.com/watch?v=dF-dTx5rFHU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
