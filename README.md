@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[FR]CyberPunk 2077 1.20 Episode 11](https://www.youtube.com/watch?v=4nwF9vaHOR0)
-- [[FR]CyberPunk 2077 1.20 Episode 10](https://www.youtube.com/watch?v=JNDtK2OOgNs)
-- [[FR]CyberPunk 2077 1.20 Episode 09](https://www.youtube.com/watch?v=RexlxHs7ajE)
-- [[FR]CyberPunk 2077 1.20 Episode 08](https://www.youtube.com/watch?v=yyjowFo9FF8)
-- [[FR]CyberPunk 2077 1.20 Episode 07](https://www.youtube.com/watch?v=dF-dTx5rFHU)
+- [[FR]CyberPunk 2077 1.20 Episode 16](https://www.youtube.com/watch?v=h_Mq-wv5N90)
+- [Satisfactory Update 4 Episode 05: PRODUCTION POUR ASCENSEUR](https://www.youtube.com/watch?v=P5fbECYShlg)
+- [[FR]CyberPunk 2077 1.20 Episode 15](https://www.youtube.com/watch?v=oFC-6dP-rsU)
+- [Satisfactory Update 4 Episode 04: ASCENSEUR ORBITAL](https://www.youtube.com/watch?v=MAEdFLa_EPg)
+- [[FR]CyberPunk 2077 1.20 Episode 14](https://www.youtube.com/watch?v=826gHAhRqYE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
