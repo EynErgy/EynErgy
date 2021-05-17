@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[FR]CyberPunk 2077 1.22 Episode 26](https://www.youtube.com/watch?v=Xsbe2P-ZRrE)
-- [Satisfactory Update 4 Episode 15: BATTERIES](https://www.youtube.com/watch?v=ztqBZgA51AM)
-- [[FR]CyberPunk 2077 1.22 Episode 25](https://www.youtube.com/watch?v=I1ryBZEjFEI)
-- [Satisfactory Update 4 Episode 14: ACIER](https://www.youtube.com/watch?v=kBHfgAhl8Gs)
-- [[FR]CyberPunk 2077 1.22 Episode 24](https://www.youtube.com/watch?v=1jLlM68Xc0Q)
+- [[FR] CyberPunk 2077 1.22 Episode 31](https://www.youtube.com/watch?v=z8VpjQ6dGa4)
+- [Satisfactory Update 4 Episode 20: PREPARATION AUX PALIERS SUIVANT](https://www.youtube.com/watch?v=c3uk9O1Tyag)
+- [[FR] CyberPunk 2077 1.22 Episode 30](https://www.youtube.com/watch?v=C21w00ZLTZ0)
+- [Satisfactory Update 4 Episode 19: DOUBLAGE PRODUCTION ACIER](https://www.youtube.com/watch?v=qvU2TrNcvIE)
+- [[FR] CyberPunk 2077 1.22 Episode 29](https://www.youtube.com/watch?v=tACwwFvcHCg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
