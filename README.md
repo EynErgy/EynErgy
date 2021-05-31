@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[FR]CyberPunk 2077 1.22 Episode 36](https://www.youtube.com/watch?v=-9E9umTK9wo)
-- [Satisfactory Update 4 Episode 25: DEBLOCAGE PALIER](https://www.youtube.com/watch?v=m1ehZ_XyzUQ)
-- [[FR] CyberPunk 2077 1.22 Episode 35](https://www.youtube.com/watch?v=gfdVPfhTFPg)
-- [Satisfactory Update 4 Episode 24: INSTALATION PUITS DE PETROLE](https://www.youtube.com/watch?v=MXNB1GPM084)
-- [[FR] CyberPunk 2077 1.22 Episode 34](https://www.youtube.com/watch?v=akSg6DOQUcM)
+- [[FR] CyberPunk 2077 1.22 Episode 41](https://www.youtube.com/watch?v=a9FD_9IM_iA)
+- [Satisfactory Update 4 Episode 30: PACKAGERS 2](https://www.youtube.com/watch?v=oCtPpmaEZKo)
+- [[FR] CyberPunk 2077 1.22 Episode 40](https://www.youtube.com/watch?v=vRNTrHWBeXI)
+- [Satisfactory Update 4 Episode 29: CAOUTCHOUC](https://www.youtube.com/watch?v=n6WKx4bGdwM)
+- [[FR] CyberPunk 2077 1.22 Episode 39](https://www.youtube.com/watch?v=Rk_392kGX-A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
