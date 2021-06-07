@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[FR] CyberPunk 2077 1.22 Episode 41](https://www.youtube.com/watch?v=a9FD_9IM_iA)
-- [Satisfactory Update 4 Episode 30: PACKAGERS 2](https://www.youtube.com/watch?v=oCtPpmaEZKo)
-- [[FR] CyberPunk 2077 1.22 Episode 40](https://www.youtube.com/watch?v=vRNTrHWBeXI)
-- [Satisfactory Update 4 Episode 29: CAOUTCHOUC](https://www.youtube.com/watch?v=n6WKx4bGdwM)
-- [[FR] CyberPunk 2077 1.22 Episode 39](https://www.youtube.com/watch?v=Rk_392kGX-A)
+- [[FR] Cyberpunk 2077 1.22 episode 46](https://www.youtube.com/watch?v=To5b9-i07gE)
+- [Satisfactory Update 4 Episode 35: RECHERCHES CATERIUM](https://www.youtube.com/watch?v=ttsmvgRaFeo)
+- [[FR] Cyberpunk 2077 1.22 episode 45](https://www.youtube.com/watch?v=Hfw_R55kkpQ)
+- [Satisfactory Update 4 Episode 34: MINE CATERIUM](https://www.youtube.com/watch?v=Qw55RvnZm3U)
+- [[FR] Cyberpunk 2077 1.22 Episode 44](https://www.youtube.com/watch?v=iRkNXMO9QFQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
