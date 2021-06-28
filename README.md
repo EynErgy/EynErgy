@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Satisfactory Update 4 Episode 45: TROUVER DES LIMACES](https://www.youtube.com/watch?v=6UfOb9IOjI8)
-- [Satisfactory Update 4 Episode 44: PLUS DE BIDONS](https://www.youtube.com/watch?v=zUCecDry8NY)
-- [Satisfactory Update 4 Episode 43: FUSIL](https://www.youtube.com/watch?v=QsP4qTCUGX8)
-- [Satisfactory Update 4 Episode 42: SOUFFRE](https://www.youtube.com/watch?v=z-lhMSH7Zec)
-- [Satisfactory Update 4 Episode 41: RECHERCHES QUARTZ](https://www.youtube.com/watch?v=53VcRMcPmtA)
+- [Satisfactory Update 4 Episode 50](https://www.youtube.com/watch?v=WKbPZSF7nLA)
+- [Satisfactory Update 4 Episode 49](https://www.youtube.com/watch?v=fMev-iT-go4)
+- [Satisfactory Update 4 Episode 48](https://www.youtube.com/watch?v=9l9sw8kLvwA)
+- [Satisfactory Update 4 Episode 47](https://www.youtube.com/watch?v=fnpAgywbmnk)
+- [Satisfactory Update 4 Episode 46](https://www.youtube.com/watch?v=C8QPJtcTumE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
