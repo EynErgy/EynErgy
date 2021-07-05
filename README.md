@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Satisfactory Update 4 Episode 50](https://www.youtube.com/watch?v=WKbPZSF7nLA)
-- [Satisfactory Update 4 Episode 49](https://www.youtube.com/watch?v=fMev-iT-go4)
-- [Satisfactory Update 4 Episode 48](https://www.youtube.com/watch?v=9l9sw8kLvwA)
-- [Satisfactory Update 4 Episode 47](https://www.youtube.com/watch?v=fnpAgywbmnk)
-- [Satisfactory Update 4 Episode 46](https://www.youtube.com/watch?v=C8QPJtcTumE)
+- [Satisfactory Update 4 Episode 55](https://www.youtube.com/watch?v=lwQd9wQCJgg)
+- [Satisfactory Update 4 Episode 54](https://www.youtube.com/watch?v=M8VN9WQUvDM)
+- [Satisfactory Update 4 Episode 53](https://www.youtube.com/watch?v=XlcgXk9C_6w)
+- [Satisfactory Update 4 Episode 52](https://www.youtube.com/watch?v=GCHVTm_dI30)
+- [Satisfactory Update 4 Episode 51](https://www.youtube.com/watch?v=uOfkxmUkuf0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
