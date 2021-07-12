@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Satisfactory Update 4 Episode 55](https://www.youtube.com/watch?v=lwQd9wQCJgg)
-- [Satisfactory Update 4 Episode 54](https://www.youtube.com/watch?v=M8VN9WQUvDM)
-- [Satisfactory Update 4 Episode 53](https://www.youtube.com/watch?v=XlcgXk9C_6w)
-- [Satisfactory Update 4 Episode 52](https://www.youtube.com/watch?v=GCHVTm_dI30)
-- [Satisfactory Update 4 Episode 51](https://www.youtube.com/watch?v=uOfkxmUkuf0)
+- [Phoenix Point Ciels de poison EPISODE 03](https://www.youtube.com/watch?v=etTS5JWSoPo)
+- [Satisfactory Update 4 Episode 60](https://www.youtube.com/watch?v=jusZKh4lQFQ)
+- [Satisfactory Update 4 Episode 59](https://www.youtube.com/watch?v=tgzzYVAxVyY)
+- [Phoenix Point Ciels de poison EPISODE 02](https://www.youtube.com/watch?v=1wwKmnyH-PU)
+- [Satisfactory Update 4 Episode 58](https://www.youtube.com/watch?v=gYvkp6jQxNc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
