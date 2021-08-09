@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Medieval Dynasty Episode 02](https://www.youtube.com/watch?v=Ly-wuChDAtU)
-- [Medieval Dynasty Episode 01](https://www.youtube.com/watch?v=Adlp8YkNj38)
-- [Satisfactory Update 4 Episode 75](https://www.youtube.com/watch?v=KRz-BQCT_-U)
-- [Phoenix Point Ciels de poison EPISODE 08](https://www.youtube.com/watch?v=V5ZipYcpADk)
-- [Satisfactory Update 4 Episode 74](https://www.youtube.com/watch?v=-qvAJszGraY)
+- [Medieval Dynasty Episode 04](https://www.youtube.com/watch?v=AQdj0-ULE_w)
+- [Medieval Dynasty Episode 03](https://www.youtube.com/watch?v=n_e60z3tJ0c)
+- [Satisfactory Update 4 Episode 80](https://www.youtube.com/watch?v=Wmyb4fnSBYE)
+- [Phoenix Point Ciels de poison EPISODE 10](https://www.youtube.com/watch?v=POnJkPQasHk)
+- [Satisfactory Update 4 Episode 79](https://www.youtube.com/watch?v=lh5tSP5zZOc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
