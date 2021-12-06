@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 03: Hub fini, premières étapes finies, ça avance pas mal](https://www.youtube.com/watch?v=l3PYL0ARwDg)
+- [Satisfactory Update 5 Episode 02: Le hub étape 5. C&#39;est tout bon](https://www.youtube.com/watch?v=tJ02CFZYDMU)
+- [Satisfactory Update 5 Episode 01: Un nouveau départ. Hub parties 1 à 3](https://www.youtube.com/watch?v=ImzvilPYmGE)
 - [Satisfactory Update 4 Episode 120](https://www.youtube.com/watch?v=ot49uwyJgcY)
 - [Satisfactory Update 4 Episode 119](https://www.youtube.com/watch?v=aKoJhjfIWZE)
-- [Satisfactory Update 4 Episode 118](https://www.youtube.com/watch?v=Sj2rE_vgAh8)
-- [Satisfactory Update 4 Episode 117](https://www.youtube.com/watch?v=X-D9AcneE48)
-- [Satisfactory Update 4 Episode 116](https://www.youtube.com/watch?v=H-zLfZEKRcU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
