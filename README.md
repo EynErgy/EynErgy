@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 09: Phase 1 finie](https://www.youtube.com/watch?v=NtoQL4S-Vic)
+- [Satisfactory Update 5 Episode 08: Agrandissement de la base](https://www.youtube.com/watch?v=8aliZSg_FyE)
+- [Satisfactory Update 5 Episode 07: Ascenseur orbital](https://www.youtube.com/watch?v=fgea-GHYZRM)
 - [Satisfactory Update 5 Episode 06: Tronconeuse, biocarburant et début de la base](https://www.youtube.com/watch?v=IiG8_w-eR9Q)
 - [Satisfactory Update 5 Episode 05: Assemblage](https://www.youtube.com/watch?v=AoPu9r5cncQ)
-- [Satisfactory Update 5 Episode 04: Logistique MK II](https://www.youtube.com/watch?v=6uPAy5f8A-E)
-- [Satisfactory Update 5 Episode 03: Hub fini, premières étapes finies, ça avance pas mal](https://www.youtube.com/watch?v=l3PYL0ARwDg)
-- [Satisfactory Update 5 Episode 02: Le hub étape 5. C&#39;est tout bon](https://www.youtube.com/watch?v=tJ02CFZYDMU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
