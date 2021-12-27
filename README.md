@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 12: Préparation de la zone centrale au charbon](https://www.youtube.com/watch?v=doq5J-DJlKs)
+- [Satisfactory Update 5 Episode 11: Energie au charbon débloquée](https://www.youtube.com/watch?v=lpH4Q6C6uB4)
+- [Satisfactory Update 5 Episode 10: C&#39;est Noël](https://www.youtube.com/watch?v=v-pYBzW64HE)
 - [Satisfactory Update 5 Episode 09: Phase 1 finie](https://www.youtube.com/watch?v=NtoQL4S-Vic)
 - [Satisfactory Update 5 Episode 08: Agrandissement de la base](https://www.youtube.com/watch?v=8aliZSg_FyE)
-- [Satisfactory Update 5 Episode 07: Ascenseur orbital](https://www.youtube.com/watch?v=fgea-GHYZRM)
-- [Satisfactory Update 5 Episode 06: Tronconeuse, biocarburant et début de la base](https://www.youtube.com/watch?v=IiG8_w-eR9Q)
-- [Satisfactory Update 5 Episode 05: Assemblage](https://www.youtube.com/watch?v=AoPu9r5cncQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
