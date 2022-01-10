@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 18: Et une deuxième ligne de plaques finie](https://www.youtube.com/watch?v=IFW_T6p3Rrw)
+- [Satisfactory Update 5 Episode 17: Je reconstruit la production de plaques](https://www.youtube.com/watch?v=-OwlbnF7D_M)
+- [Copic Marqueurs: Petit coloriage détente](https://www.youtube.com/watch?v=bbbXdLVnp3Q)
+- [Satisfactory Update 5 Episode 16: Electricité au charbon, check](https://www.youtube.com/watch?v=NH1IjH4oDFI)
 - [Satisfactory Update 5 Episode 15: Raccordement du charbon](https://www.youtube.com/watch?v=FyglxoIqCDE)
-- [Satisfactory Update 5 Episode 14: Zone de pompage de l&#39;eau en place](https://www.youtube.com/watch?v=gc0uUZXU3xM)
-- [Satisfactory Update 5 Episode 13: Mines de charbon en place](https://www.youtube.com/watch?v=4dNO-fuNWKo)
-- [Satisfactory Update 5 Episode 12: Préparation de la zone centrale au charbon](https://www.youtube.com/watch?v=doq5J-DJlKs)
-- [Satisfactory Update 5 Episode 11: Energie au charbon débloquée](https://www.youtube.com/watch?v=lpH4Q6C6uB4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
