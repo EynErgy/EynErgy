@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 24: Mise en place d&#39;une ligne de rotors](https://www.youtube.com/watch?v=3rg9aSlxU_w)
+- [Satisfactory Update 5 Episode 23: Début de la ligne de plaques renforcées](https://www.youtube.com/watch?v=-STXWgNirrA)
+- [Satisfactory Update 5 Episode 22: Je termine avec les vis](https://www.youtube.com/watch?v=q8d6ZWk7rg0)
 - [Satisfactory Update 5 Episode 21: Et encore une ligne de vis](https://www.youtube.com/watch?v=Tynh7_rC1uU)
 - [Satisfactory Update 5 Episode 20: Une belle ligne de vis](https://www.youtube.com/watch?v=7sO0hiQlQqs)
-- [Satisfactory Update 5 Episode 19: On continue les lignes de bases](https://www.youtube.com/watch?v=5Atl9Ucw0q4)
-- [Satisfactory Update 5 Episode 18: Et une deuxième ligne de plaques finie](https://www.youtube.com/watch?v=IFW_T6p3Rrw)
-- [Satisfactory Update 5 Episode 17: Je reconstruit la production de plaques](https://www.youtube.com/watch?v=-OwlbnF7D_M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
