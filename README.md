@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 33: Tubes et plaques en acier](https://www.youtube.com/watch?v=UuL3ZMHwADk)
+- [Satisfactory Update 5 Episode 32: Production d&#39;acier](https://www.youtube.com/watch?v=Y9AIGdy5jSY)
+- [Satisfactory Update 5 Episode 31: Premiers camions](https://www.youtube.com/watch?v=-rZ9KPSvqE0)
 - [Satisfactory Update 5 Episode 30: A la recherche de charbon](https://www.youtube.com/watch?v=8f7rH6-nFwQ)
 - [Satisfactory Update 5 Episode 29: Préparations pour plus de puissance électrique](https://www.youtube.com/watch?v=hwnsCehYFBc)
-- [Satisfactory Update 5 Episode 28: A la recherche de mines de fer](https://www.youtube.com/watch?v=wvB0cOwG5mg)
-- [Satisfactory Update 5 Episode 27: Update des lignes et déblocage du camion](https://www.youtube.com/watch?v=hx7pd1jQMis)
-- [Satisfactory Update 5 Episode 26: Upgrade des lignes](https://www.youtube.com/watch?v=rJhIXqU9Ky0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
