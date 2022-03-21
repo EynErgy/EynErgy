@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 45: Mines de quartz](https://www.youtube.com/watch?v=LhVtjVMKUQw)
+- [Satisfactory Update 5 Episode 44: Upgrades](https://www.youtube.com/watch?v=Z88Bp2UbhNI)
+- [Satisfactory Update 5 Episode 43: Augmentation de la production électrique](https://www.youtube.com/watch?v=8ug2tzjKyus)
 - [Satisfactory Update 5 Episode 42:](https://www.youtube.com/watch?v=hqn-nlzhLJA)
 - [Satisfactory Update 5 Episode 41:](https://www.youtube.com/watch?v=IA7OF3B2_5o)
-- [Satisfactory Update 5 Episode 40:](https://www.youtube.com/watch?v=ORVPO1pb8o4)
-- [Satisfactory Update 5 Episode 39:](https://www.youtube.com/watch?v=vlAwjEYHFcg)
-- [Satisfactory Update 5 Episode 38](https://www.youtube.com/watch?v=45seakwzRhE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
