@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 48: Je prépare les raffineries](https://www.youtube.com/watch?v=tBMI70Juz0M)
+- [Satisfactory Update 5 Episode 47: Trouver le pétrole](https://www.youtube.com/watch?v=srHa9EAxuGg)
+- [Satisfactory Update 5 Episode 46: Phase 2 terminée](https://www.youtube.com/watch?v=ngBJoXxp024)
 - [Satisfactory Update 5 Episode 45: Mines de quartz](https://www.youtube.com/watch?v=LhVtjVMKUQw)
 - [Satisfactory Update 5 Episode 44: Upgrades](https://www.youtube.com/watch?v=Z88Bp2UbhNI)
-- [Satisfactory Update 5 Episode 43: Augmentation de la production électrique](https://www.youtube.com/watch?v=8ug2tzjKyus)
-- [Satisfactory Update 5 Episode 42:](https://www.youtube.com/watch?v=hqn-nlzhLJA)
-- [Satisfactory Update 5 Episode 41:](https://www.youtube.com/watch?v=IA7OF3B2_5o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
