@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 60: Début de la centrale électrique essence](https://www.youtube.com/watch?v=GPzjQoLWISE)
+- [Satisfactory Update 5 Episode 59: Préparation à la construction de génératrices](https://www.youtube.com/watch?v=zBHNMMPigjA)
+- [Satisfactory Update 5 Episode 58: Fabrication de Filactif](https://www.youtube.com/watch?v=H-CWULD7OvA)
 - [Satisfactory Update 5 Episode 57: Recherche du Catérium](https://www.youtube.com/watch?v=Ii_GOCafx9Y)
 - [Satisfactory Update 5 Episode 56: Déblocage technologie génératrice](https://www.youtube.com/watch?v=nKYgfjgbnWk)
-- [Satisfactory Update 5 Episode 55: Fabrication d&#39;ordinateurs](https://www.youtube.com/watch?v=09Vx-GJluhE)
-- [Satisfactory Update 5 Episode 54: Fabrication d&#39;ordinateurs, attention épisode ennuyeux.](https://www.youtube.com/watch?v=y7Kou0DbOK4)
-- [Satisfactory Update 5 Episode 53: Déblocage technologie camions](https://www.youtube.com/watch?v=UScP6craiDg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
