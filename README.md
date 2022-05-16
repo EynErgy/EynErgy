@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 66: Automatisation de la ligne de moteurs](https://www.youtube.com/watch?v=e5NHmIUALGc)
+- [Satisfactory Update 5 Episode 65: Fin de la ligne de cubes renforcés](https://www.youtube.com/watch?v=o-C5pQlR5Mc)
+- [Satisfactory Update 5 Episode 64: Ligne de cubes renforcés](https://www.youtube.com/watch?v=_G_INs4UWN4)
 - [Satisfactory Update 5 Episode 63: Fabrication d&#39;ordinateurs](https://www.youtube.com/watch?v=qDPGqENS3Fk)
 - [Satisfactory Update 5 Episode 62: Premières manufactures](https://www.youtube.com/watch?v=0PHIpxOFiC4)
-- [Satisfactory Update 5 Episode 61: Transport du plastique](https://www.youtube.com/watch?v=itjM2m5RY1w)
-- [Satisfactory Update 5 Episode 60: Début de la centrale électrique essence](https://www.youtube.com/watch?v=GPzjQoLWISE)
-- [Satisfactory Update 5 Episode 59: Préparation à la construction de génératrices](https://www.youtube.com/watch?v=zBHNMMPigjA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
