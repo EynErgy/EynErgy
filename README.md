@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 72: Préparation au Tier suivant](https://www.youtube.com/watch?v=eSZnMqWwIxU)
+- [Satisfactory Update 5 Episode 71: upgrade de la livraison de charbon](https://www.youtube.com/watch?v=zHzIM7ODy-I)
+- [Satisfactory Update 5 Episode 70: Upgrade ligne d&#39;acier](https://www.youtube.com/watch?v=hk2TJ-9HJUU)
 - [Satisfactory Update 5 Episode 69: Upgrade ligne d&#39;acier](https://www.youtube.com/watch?v=LHzcVtATrsk)
 - [Satisfactory Update 5 Episode 68: Le monorail](https://www.youtube.com/watch?v=ropLBpoH1oI)
-- [Satisfactory Update 5 Episode 67: Augmentation de la production électrique](https://www.youtube.com/watch?v=_vsvrmZvcY8)
-- [Satisfactory Update 5 Episode 66: Automatisation de la ligne de moteurs](https://www.youtube.com/watch?v=e5NHmIUALGc)
-- [Satisfactory Update 5 Episode 65: Fin de la ligne de cubes renforcés](https://www.youtube.com/watch?v=o-C5pQlR5Mc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
