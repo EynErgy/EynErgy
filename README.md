@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 75: Préparation au Tier 3](https://www.youtube.com/watch?v=rJdtD_UnDWE)
+- [Satisfactory Update 5 Episode 74: Préparation au tier 3](https://www.youtube.com/watch?v=VfiUWBSQj6U)
+- [Satisfactory Update 5 Episode 73: Préparation au tier 3](https://www.youtube.com/watch?v=mhUuRowKPus)
 - [Satisfactory Update 5 Episode 72: Préparation au Tier suivant](https://www.youtube.com/watch?v=eSZnMqWwIxU)
 - [Satisfactory Update 5 Episode 71: upgrade de la livraison de charbon](https://www.youtube.com/watch?v=zHzIM7ODy-I)
-- [Satisfactory Update 5 Episode 70: Upgrade ligne d&#39;acier](https://www.youtube.com/watch?v=hk2TJ-9HJUU)
-- [Satisfactory Update 5 Episode 69: Upgrade ligne d&#39;acier](https://www.youtube.com/watch?v=LHzcVtATrsk)
-- [Satisfactory Update 5 Episode 68: Le monorail](https://www.youtube.com/watch?v=ropLBpoH1oI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
