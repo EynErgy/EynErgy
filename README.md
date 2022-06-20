@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 78: Recherches pour le fusil](https://www.youtube.com/watch?v=wyYMalz9Bxg)
+- [Satisfactory Update 5 Episode 77: Encore le soufre](https://www.youtube.com/watch?v=xq0SwUMkCf8)
+- [Satisfactory Update 5 Episode 76: A la recherche de soufre](https://www.youtube.com/watch?v=BwIX7Rb7020)
 - [Satisfactory Update 5 Episode 75: Préparation au Tier 3](https://www.youtube.com/watch?v=rJdtD_UnDWE)
 - [Satisfactory Update 5 Episode 74: Préparation au tier 3](https://www.youtube.com/watch?v=VfiUWBSQj6U)
-- [Satisfactory Update 5 Episode 73: Préparation au tier 3](https://www.youtube.com/watch?v=mhUuRowKPus)
-- [Satisfactory Update 5 Episode 72: Préparation au Tier suivant](https://www.youtube.com/watch?v=eSZnMqWwIxU)
-- [Satisfactory Update 5 Episode 71: upgrade de la livraison de charbon](https://www.youtube.com/watch?v=zHzIM7ODy-I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
