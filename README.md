@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 5 Episode 81: Toujours occupé sur la centrale](https://www.youtube.com/watch?v=Q29NqwrbhGo)
+- [Satisfactory Update 5 Episode 80: Je continue la centrale électrique](https://www.youtube.com/watch?v=zmUsk1d5Hk4)
+- [Satisfactory Update 5 Episode 79: Fabrication de munitions](https://www.youtube.com/watch?v=lyOJdgPRMCw)
 - [Satisfactory Update 5 Episode 78: Recherches pour le fusil](https://www.youtube.com/watch?v=wyYMalz9Bxg)
 - [Satisfactory Update 5 Episode 77: Encore le soufre](https://www.youtube.com/watch?v=xq0SwUMkCf8)
-- [Satisfactory Update 5 Episode 76: A la recherche de soufre](https://www.youtube.com/watch?v=BwIX7Rb7020)
-- [Satisfactory Update 5 Episode 75: Préparation au Tier 3](https://www.youtube.com/watch?v=rJdtD_UnDWE)
-- [Satisfactory Update 5 Episode 74: Préparation au tier 3](https://www.youtube.com/watch?v=VfiUWBSQj6U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
