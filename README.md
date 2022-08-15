@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Découverte de la Playstation 5 en 2022](https://www.youtube.com/watch?v=P547GfUZMfA)
 - [Satisfactory Update 5 Episode 84: Prospection pour du Fer](https://www.youtube.com/watch?v=oh4JXmpbqqo)
 - [Satisfactory Update 5 Episode 83: La centrale tourne](https://www.youtube.com/watch?v=v6fjt25CkOA)
 - [Satisfactory Update 5 Episode 82: Devinez quoi....... Toujours la centrale](https://www.youtube.com/watch?v=1_LA8k4tLDk)
 - [Satisfactory Update 5 Episode 81: Toujours occupé sur la centrale](https://www.youtube.com/watch?v=Q29NqwrbhGo)
-- [Satisfactory Update 5 Episode 80: Je continue la centrale électrique](https://www.youtube.com/watch?v=zmUsk1d5Hk4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
