@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Cyberpunk Episode 03](https://www.youtube.com/watch?v=vqewMs76KIQ)
-- [Cyberpunk Episode 02](https://www.youtube.com/watch?v=XPFcRDDu0aE)
-- [Cyberpunk Episode 01](https://www.youtube.com/watch?v=ELSEEC37AYE)
-- [Découverte de la Playstation 5 en 2022](https://www.youtube.com/watch?v=P547GfUZMfA)
-- [Satisfactory Update 5 Episode 84: Prospection pour du Fer](https://www.youtube.com/watch?v=oh4JXmpbqqo)
+- [Cyberpunk Episode 06](https://www.youtube.com/watch?v=QtGVjz9ylPI)
+- [Final Fantasy 7 Episode 02](https://www.youtube.com/watch?v=tuN5CRqTip0)
+- [Cyberpunk Episode 05](https://www.youtube.com/watch?v=ToyvzlT0DP4)
+- [Final Fantasy 7 Episode 01](https://www.youtube.com/watch?v=8MNpWHckmDw)
+- [Cyberpunk Episode 04](https://www.youtube.com/watch?v=yhbvyQxP7qg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
