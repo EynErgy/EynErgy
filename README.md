@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Cyberpunk Episode 06](https://www.youtube.com/watch?v=QtGVjz9ylPI)
-- [Final Fantasy 7 Episode 02](https://www.youtube.com/watch?v=tuN5CRqTip0)
-- [Cyberpunk Episode 05](https://www.youtube.com/watch?v=ToyvzlT0DP4)
-- [Final Fantasy 7 Episode 01](https://www.youtube.com/watch?v=8MNpWHckmDw)
-- [Cyberpunk Episode 04](https://www.youtube.com/watch?v=yhbvyQxP7qg)
+- [Cyberpunk Episode 09](https://www.youtube.com/watch?v=_QIv3ITZGak)
+- [Final Fantasy 7 Episode 04](https://www.youtube.com/watch?v=UuDX0ktSS-c)
+- [Cyberpunk Episode 08](https://www.youtube.com/watch?v=ppEr9zHGfB8)
+- [Final Fantasy 7 Episode 03](https://www.youtube.com/watch?v=gDbrQ27KhlE)
+- [Cyberpunk Episode 07](https://www.youtube.com/watch?v=Q4r1OBlqkFk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
