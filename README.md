@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Death Stranding Episode 02](https://www.youtube.com/watch?v=lzTDFi2FheY)
+- [Cult of the Lamb Episode 02](https://www.youtube.com/watch?v=7U6Gaja4Crw)
 - [Death Stranding Episode 01](https://www.youtube.com/watch?v=Cr0jdgqSdUw)
 - [Cult of the Lamb Episode 01](https://www.youtube.com/watch?v=gWlOj9F1ktk)
 - [Cyberpunk Episode 11](https://www.youtube.com/watch?v=e1sVDqmqpEk)
-- [Cyberpunk Episode 10](https://www.youtube.com/watch?v=FcaupH_MG50)
-- [Cyberpunk Episode 09](https://www.youtube.com/watch?v=_QIv3ITZGak)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
