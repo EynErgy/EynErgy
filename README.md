@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Death Stranding Episode 02](https://www.youtube.com/watch?v=lzTDFi2FheY)
-- [Cult of the Lamb Episode 02](https://www.youtube.com/watch?v=7U6Gaja4Crw)
-- [Death Stranding Episode 01](https://www.youtube.com/watch?v=Cr0jdgqSdUw)
-- [Cult of the Lamb Episode 01](https://www.youtube.com/watch?v=gWlOj9F1ktk)
-- [Cyberpunk Episode 11](https://www.youtube.com/watch?v=e1sVDqmqpEk)
+- [Satisfactory Update 6 Episode 03](https://www.youtube.com/watch?v=lCYone9rwKs)
+- [Death Stranding Episode 03](https://www.youtube.com/watch?v=UGqOkuBnnes)
+- [Satisfactory Update 6 Episode 02](https://www.youtube.com/watch?v=yw-zXBe_8h0)
+- [Cult of the Lamb Episode 03](https://www.youtube.com/watch?v=4RR0kDvv_ac)
+- [Satisfactory Update 6 Episode 01](https://www.youtube.com/watch?v=g-7160hDf0Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
