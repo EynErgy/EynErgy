@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Satisfactory Update 6 Episode 09](https://www.youtube.com/watch?v=U39B7wrOJrg)
+- [Satisfactory Update 6 Episode 08](https://www.youtube.com/watch?v=iUcPHy2XyMo)
+- [Satisfactory Update 6 Episode 07](https://www.youtube.com/watch?v=c-Suy8ArBCE)
 - [Satisfactory Update 6 Episode 06](https://www.youtube.com/watch?v=wxTt0hx_4hk)
 - [Death Stranding Episode 04](https://www.youtube.com/watch?v=-YiQovmC87E)
-- [Satisfactory Update 6 Episode 05](https://www.youtube.com/watch?v=1YONESEIutU)
-- [Cult of the Lamb Episode 04](https://www.youtube.com/watch?v=c3ZdA0jgeJ0)
-- [Satisfactory Update 6 Episode 04](https://www.youtube.com/watch?v=oXeF1AbPYiA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
