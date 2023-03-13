@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hogwarts Legacy Episode 01](https://www.youtube.com/watch?v=8KbnbGhj5Mw)
 - [PS5: Persona 5 Royal Episode 03](https://www.youtube.com/watch?v=nwuN_64uFMI)
 - [PS5: Persona 5 Royal Episode 02](https://www.youtube.com/watch?v=I3hso2UO4bs)
 - [PS5: Persona 5 Royal Episode 01](https://www.youtube.com/watch?v=LtrXyWn5SaI)
 - [Satisfactory Update 6 Episode 09](https://www.youtube.com/watch?v=U39B7wrOJrg)
-- [Satisfactory Update 6 Episode 08](https://www.youtube.com/watch?v=iUcPHy2XyMo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVNX-zufybjnXe9mBRThjCA)
