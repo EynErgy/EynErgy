@@ -55,11 +55,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1902](https://github.com/esphome/feature-requests/issues/1902) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
-2. 🗣 Commented on [#1902](https://github.com/esphome/feature-requests/issues/1902) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
-3. 🗣 Commented on [#40](https://github.com/V1EngineeringInc/MarlinBuilder/issues/40) in [V1EngineeringInc/MarlinBuilder](https://github.com/V1EngineeringInc/MarlinBuilder)
-4. 🗣 Commented on [#40](https://github.com/V1EngineeringInc/MarlinBuilder/issues/40) in [V1EngineeringInc/MarlinBuilder](https://github.com/V1EngineeringInc/MarlinBuilder)
-5. 🗣 Commented on [#40](https://github.com/V1EngineeringInc/MarlinBuilder/issues/40) in [V1EngineeringInc/MarlinBuilder](https://github.com/V1EngineeringInc/MarlinBuilder)
+1. 🚀 Published release [First release: Experimental](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls260) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
+2. 🚀 Published release [First Release: Experimental](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls260) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
+3. 🚀 Published release [First release: Experimental](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls260) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
+4. 🚀 Published release [back to square 1](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls260f) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
+5. 🚀 Published release [TEST](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls260e) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
 <!--END_SECTION:activity-->
 
 </details>
