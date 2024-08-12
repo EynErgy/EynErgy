@@ -55,9 +55,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.6.1-ls269](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls269) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
-2. 🚀 Published release [v2.6.1-ls266](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls266) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
-3. 🚀 Published release [V2.6.1-ls265](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls265) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
+1. 🚀 Published release [v2.6.1-ls278](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls278) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
+2. 🚀 Published release [v2.6.1-ls278](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls278) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
+3. 🚀 Published release [v2.6.1-ls269](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls269) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
 4. 🚀 Published release [v2.6.1-ls264](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls264) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
 5. 🚀 Published release [v2.6.1-ls263](https://github.com/EynErgy/HA_Add-Ons/releases/tag/v2.6.1-ls263) in [EynErgy/HA_Add-Ons](https://github.com/EynErgy/HA_Add-Ons)
 <!--END_SECTION:activity-->
